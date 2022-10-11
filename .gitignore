@@ -1,0 +1,11 @@
+venv/
+
+.idea/
+
+logs/
+
+datavault/dbt_packages
+
+datavault/logs
+
+datavault/target

@@ -1,0 +1,9 @@
+version: 2
+
+
+sources:
+  - name: primary_data_layer
+    database: datavault
+    schema: primary_data_layer
+    tables:
+      - name: developers_source
